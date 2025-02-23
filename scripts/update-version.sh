@@ -6,7 +6,6 @@ VERSION="0.1.${TIMESTAMP}"
 npm version "${VERSION}" --no-git-tag-version --force
 
 git add package.json package-lock.json
-git commit -m "Bump version to ${VERSION}"
 
 git tag "v${VERSION}" -m "Release version ${VERSION}"
 
