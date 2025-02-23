@@ -11,7 +11,7 @@ This theme is designed to provide a comfortable and visually appealing coding ex
 
 ## Installation
 
-This theme is published on [Open VSX]](https://open-vsx.org/extension/x9gg/x9gg-vscode-theme) and [VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=x9gg.x9gg-vscode-theme)
+This theme is published on [Open VSX](https://open-vsx.org/extension/x9gg/x9gg-vscode-theme) and [VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=x9gg.x9gg-vscode-theme)
 
 
 1. Open **Extensions** in Visual Studio Code (`Ctrl+Shift+X` or `Cmd+Shift+X` on macOS).
