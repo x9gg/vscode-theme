@@ -5,6 +5,10 @@ A personal Visual Studio Code Theme(s) inspired by the our apps and projects.
 This theme is designed to provide a comfortable and visually appealing coding experience, tailored to our personal preferences, if you like them, feel free to use/improve/adapt them.
 
 
+[![Build and Release X9GG VSCode Theme](https://github.com/x9gg/vscode-theme/actions/workflows/release.yml/badge.svg)](https://github.com/x9gg/vscode-theme/actions/workflows/release.yml)
+
+
+
 ## Installation
 
 This theme is published on [Open VSX]](https://open-vsx.org/extension/x9gg/x9gg-vscode-theme) and [VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=x9gg.x9gg-vscode-theme)
