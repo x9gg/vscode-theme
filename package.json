@@ -1,0 +1,45 @@
+{
+  "name": "x9gg-vscode-theme",
+  "displayName": "X9GG VSCode Theme",
+  "description": "A personal Visual Studio Code Theme(s) inspired by the our apps and projects.",
+  "version": "0.1.1740177299",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "scripts": {
+    "update-version": "npm version \"0.1.$(date +%s)\"",
+    "package:vsce": "npx vsce package",
+    "publish:vsce": "npx vsce publish",
+    "publish:ovsx": "npx ovsx publish"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "x9gg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "tvdotdev-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tvdotdev-dark.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x9gg/vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "tvdotdev",
+    "tv.dev",
+    "code",
+    "nerd"
+  ],
+  "pricing": "Free",
+  "devDependencies": {
+    "@vscode/vsce": "^3.2.2",
+    "ovsx": "^0.10.1"
+  }
+}
