@@ -4,10 +4,14 @@ A personal Visual Studio Code Theme(s) inspired by the our apps and projects.
 
 This theme is designed to provide a comfortable and visually appealing coding experience, tailored to our personal preferences, if you like them, feel free to use/improve/adapt them.
 
+
 ## Installation
 
+This theme is published on [Open VSX]](https://open-vsx.org/extension/x9gg/x9gg-vscode-theme) and [VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=x9gg.x9gg-vscode-theme)
+
+
 1. Open **Extensions** in Visual Studio Code (`Ctrl+Shift+X` or `Cmd+Shift+X` on macOS).
-2. Search for `tvdotdev-vscode-theme`.
+2. Search for `x9gg vscode theme`.
 3. Click **Install** to add the theme to your VS Code.
 4. After installation, go to the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS) and type `Preferences: Color Theme`.
 5. Select from the list.
