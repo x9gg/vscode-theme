@@ -1,0 +1,157 @@
+{
+  "name": "tvdotdev-light",
+  "type": "light",
+  "colors": {
+    "editor.background": "#FFFFFF",
+    "editor.foreground": "#2D1B4B",
+
+    "activityBar.background": "#F0E6FF",
+    "activityBar.foreground": "#FF6B4A",
+    "activityBar.inactiveForeground": "#6B5A80",
+    "activityBar.border": "#E6E6E6",
+    "activityBarBadge.background": "#FF6B4A",
+    "activityBarBadge.foreground": "#FFFFFF",
+
+    "sideBar.background": "#F8F4FF",
+    "sideBar.foreground": "#2D1B4B",
+    "sideBar.border": "#E6E6E6",
+    "sideBarTitle.foreground": "#FF6B4A",
+    "sideBarSectionHeader.background": "#F0E6FF",
+    "sideBarSectionHeader.foreground": "#FF6B4A",
+
+    "statusBar.background": "#0066CC",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBar.debuggingBackground": "#FF6B4A",
+    "statusBar.noFolderBackground": "#F8F4FF",
+
+    "titleBar.activeBackground": "#F0E6FF",
+    "titleBar.activeForeground": "#2D1B4B",
+    "titleBar.inactiveBackground": "#F8F4FF",
+    "titleBar.inactiveForeground": "#6B5A80",
+
+    "tab.activeBackground": "#FF6B4A22",
+    "tab.activeForeground": "#2D1B4B",
+    "tab.inactiveBackground": "#F0E6FF",
+    "tab.inactiveForeground": "#6B5A80",
+    "tab.activeBorderTop": "#FF6B4A",
+
+    "editorWidget.background": "#F8F4FF",
+    "editorWidget.border": "#FF6B4A",
+    "editorSuggestWidget.background": "#F8F4FF",
+    "editorSuggestWidget.foreground": "#2D1B4B",
+    "editorSuggestWidget.highlightForeground": "#FF6B4A",
+    "editorSuggestWidget.selectedBackground": "#FF6B4A33"
+  },
+  "tokenColors": [
+    {
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#D14000",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["string", "string.template"],
+      "settings": {
+        "foreground": "#B36D00"
+      }
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": {
+        "foreground": "#0052A3",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["variable", "variable.other"],
+      "settings": {
+        "foreground": "#2D1B4B"
+      }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": {
+        "foreground": "#E65000"
+      }
+    },
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#6B5A80",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["entity.name.type", "support.type"],
+      "settings": {
+        "foreground": "#0066CC"
+      }
+    },
+    {
+      "scope": ["markup.heading"],
+      "settings": {
+        "foreground": "#D14000",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["markup.inline.raw", "markup.fenced_code"],
+      "settings": {
+        "foreground": "#B36D00"
+      }
+    }
+  ],
+  "semanticTokenColors": {
+    "variable": "#2D1B4B",
+    "variable.readonly": "#0052A3",
+    "variable.declaration": "#2D1B4B",
+    "variable.defaultLibrary": "#0066CC",
+    "variable.local": "#2D1B4B",
+    "variable.parameter": "#B36D00",
+
+    "function": "#0052A3",
+    "function.declaration": "#0052A3",
+    "function.defaultLibrary": "#0066CC",
+    "method": "#0052A3",
+    "method.declaration": "#0052A3",
+    "method.defaultLibrary": "#0066CC",
+
+    "class": "#D14000",
+    "class.declaration": "#D14000",
+    "class.defaultLibrary": "#0066CC",
+    "interface": "#0066CC",
+    "interface.declaration": "#0066CC",
+    "enum": "#E65000",
+    "enum.declaration": "#E65000",
+    "type.declaration": "#0066CC",
+    "typeParameter": "#B36D00",
+
+    "property": "#0052A3",
+    "property.declaration": "#0052A3",
+    "property.readonly": "#0052A3",
+    "member": "#0052A3",
+    "member.readonly": "#0052A3",
+
+    "namespace": "#D14000",
+    "module": "#D14000",
+
+    "decorator": "#B36D00",
+
+    "modifier": "#D14000",
+
+    "comment": "#6B5A80",
+    "comment.documentation": "#535066",
+
+    "string": "#B36D00",
+    "string.key": "#E65000",
+    "string.quoted": "#B36D00",
+
+    "number": "#E65000",
+    "regexp": "#E65000",
+    "macro": "#D14000",
+
+    "keyword.control": "#D14000",
+    "label": "#D14000"
+  }
+}

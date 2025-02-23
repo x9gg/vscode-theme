@@ -1,0 +1,37 @@
+{
+    "name": "tvdotdev-hc-black",
+    "type": "dark",
+    "colors": {
+      "contrastBorder": "#FF6B4A",
+      "contrastActiveBorder": "#FFB84A",
+      
+      "editor.background": "#000000",
+      "editor.foreground": "#FFFFFF",
+      
+      "activityBar.background": "#000000",
+      "activityBar.foreground": "#FF6B4A",
+      "activityBar.border": "#FF6B4A",
+      
+      "sideBar.background": "#000000",
+      "sideBar.foreground": "#FFFFFF",
+      "sideBar.border": "#FF6B4A",
+      
+      "editor.lineHighlightBackground": "#FF6B4A30",
+      "editor.selectionBackground": "#FF6B4A50",
+      
+      "list.activeSelectionBackground": "#FF6B4A",
+      "list.activeSelectionForeground": "#FFFFFF",
+      "list.hoverBackground": "#FF6B4A30",
+      
+      "button.background": "#FF6B4A",
+      "button.foreground": "#FFFFFF",
+      "button.hoverBackground": "#FF8F4A",
+      
+      "badge.background": "#FF6B4A",
+      "badge.foreground": "#FFFFFF",
+      
+      "scrollbarSlider.background": "#FF6B4A50",
+      "scrollbarSlider.hoverBackground": "#FF6B4A80",
+      "scrollbarSlider.activeBackground": "#FF6B4A"
+    }
+  }
