@@ -7,7 +7,7 @@
     "vscode": "^1.63.0"
   },
   "scripts": {
-    "update-version": "npm version \"0.1.$(date +%s)\"",
+    "update-version": "bash scripts/update-version.sh",
     "package:vsce": "npx vsce package",
     "publish:vsce": "npx vsce publish",
     "publish:ovsx": "npx ovsx publish"
